@@ -7,7 +7,7 @@ Test Prototype and Demo Showcase<br/>
 <https://github.com/atmostadam/cats-test>
 
 Spring Boot Application Prototype and Demo Showcase<br/>
-<https://github.com/atmostadam/cats-test>
+<https://github.com/atmostadam/cats-spring-boot>
 
 I use the following professionally on a daily basis:
 - Java
