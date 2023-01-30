@@ -3,8 +3,8 @@
 API Prototype and Demo Showcase<br/>
 <https://github.com/atmostadam/cats-api>
 
-Test Prototype and Demo Showcase<br/>
-<https://github.com/atmostadam/cats-test>
+Framework Prototype and Demo Showcase<br/>
+<https://github.com/atmostadam/cats-framework>
 
 Spring Boot Application Prototype and Demo Showcase<br/>
 <https://github.com/atmostadam/cats-spring-boot>
