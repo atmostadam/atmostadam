@@ -12,6 +12,9 @@ Spring Boot Application Prototype and Demo Showcase<br/>
 Drools Application Prototype and Demo Showcase<br/>
 <https://github.com/atmostadam/cats-drools>
 
+jBPM Application Prototype and Demo Showcase<br/>
+<https://github.com/atmostadam/cats-jbpm>
+
 I use the following professionally on a daily basis:
 - Java
 - Spring Boot
